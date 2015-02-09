@@ -1,0 +1,19 @@
+{
+  "name": "foran",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/najamkhn/foran.git"
+  },
+  "author": "Najam Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/najamkhn/foran/issues"
+  },
+  "homepage": "https://github.com/najamkhn/foran"
+}
